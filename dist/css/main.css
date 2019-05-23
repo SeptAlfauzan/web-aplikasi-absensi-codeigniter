@@ -1,0 +1,9 @@
+.hapus:hover {
+    color: red;
+    transition: 0.4s;
+}
+
+.pageThumbnail:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+}
